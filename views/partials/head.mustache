@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Altcoin Casino, Biggest Jackpots! Worldcoin, Megacoin, Blackcoin, Vertcoin, Bitshares, Bitcoin, Litecoin, Dogecoin, Zetacoin, Namecoin, Crypto, Devcoin, Peercoin, Primecoin, Coin Casino, Crypto Casino, Lottery, Dice, Keno!">
+    <meta name="author" content="Justin Faler">
+
+    <title>{{title}}</title>
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Gravitas+One&amp;text=1234567" rel="stylesheet" type="text/css">
+    <link href="/assets/css/base.css" rel="stylesheet">
+    {{#pagecss}}<link href="/assets/css/pages/{{pagecss}}.css" rel="stylesheet">{{/pagecss}}
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/assets/js/html5shiv.js"></script>
+      <script src="/assets/js/respond/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="/assets/img/favicon-{{altcoinl}}.png">
+
+    <script src="/assets/js/jquery.js"></script>
+    <script src="/assets/js/jquery.cookie.js"></script>
+    <script src="/assets/js/bootstrap.js"></script>
+    <script src="/assets/js/holder/holder.js"></script>
+  </head>
+  <body>
+<div class="content">
+  <div class="navbar navbar-inverse">
+    <div class="container">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">{{name}}</a> 
+      <div class="nav-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li{{#index}} class="active"{{/index}}><a href="/">Home</a></li>
+          <li{{#games}} class="active"{{/games}} class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Games <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="nav-header">Slots</li>
+              <li><a href="/slots2">5x Diamonds</a></li>
+              <li><a href="/slots3">Pirates Chest</a></li>
+              <li><a href="/slots6">Saloon XXX</a></li>
+              <li><a href="/slots7">Mystic Treasure</a></li>
+              <li><a href="/slots8">Twilight Gold</a></li>
+	      <li class="nav-header">keno</li>	
+             
+              <li class="nav-header">Wheel Of Fortune</li>	
+              <li><a href="/spin">Wheel Of Fortune</a></li> 
+              <li><a href="/keno"></a></li>
+              {{! <li class="divider"></li>
+              <li class="nav-header">Jackpots</li>
+              <li><a href="/jackpot/weekly">Weekly</a></li>
+              <li><a href="/jackpot/monthly">Monthly</a></li> }}
+            </ul>
+		  </li>
+          <li{{#about}} class="active"{{/about}}><a href="/about">About</a></li>
+		  <li{{#contact}} class="active"{{/contact}}><a href="/contact">Contact Us</a></li> 
+                  <li{{#faq}} class="active"{{/faq}}><a href="/faq">FAQ</a></li>
+		</ul> 
+           
+        <ul class="nav navbar-nav pull-right">
+          <li><a href="/profile">Profile</a></li> 
+        </ul>
+        <ul class="nav navbar-nav pull-right">
+          <form class="navbar-form navbar-right">
+            <input type="text" class="form-control" placeholder="Key" value="{{key}}">
+          </form>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">

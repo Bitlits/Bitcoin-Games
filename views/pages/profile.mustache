@@ -1,0 +1,44 @@
+{{>head}}
+
+  <div class="row well">
+    <div class="col-lg-12 col-sm-12 col-12">
+      <h1>Your Profile</h1>
+    </div>
+    <div class="col-lg-12 col-sm-12 col-12">
+      <p>To play in any of the games on {{name}}, you will need to have {{altcoin}} in your account to play with. To make a deposit, send {{altcoin}}s to the address generated below. (You maybe have to generate one if you haven't).  Once you have made a deposit, you must wait for the funds to confirm before you can play.  Once they are confirmed, they will show up in your account.  {{#genAddress}}If you wish to deposit {{altcoin}} to account, generate a {{altcoin}} address below.{{/genAddress}}<p>
+    </div>
+    <div class="col-lg-12 col-sm-12 col-12">
+      <p><strong>Access to your account is controlled by an access key.  To get access to your account, bookmark this url: <div class="well"><a href="{{url}}/?key={{key}}">{{url}}/?key={{key}}</a></div></strong></p>
+    </div>
+    {{#genAddress}}
+    <div class="col-lg-12 col-sm-12 col-12">
+      <p><a href="/profile/generate" class="btn btn-default">Generate Deposit</a></p>
+    </div>
+    {{/genAddress}}
+    {{^genAddress}}
+      {{#user}}
+      <div class="col-lg-12 col-sm-12 col-12">
+        <p>Your Deposit Address: <strong>{{address}}</strong></p>
+        <p>Your Account Balance: <strong>{{balance}} {{altc}}</strong></p>
+      </div>
+      <hr>
+      <div class="col-lg-12 col-sm-12 col-12">
+        <form action="/profile/withdraw/" method="post">
+          <div class="row">
+            <div class="col-lg-6 col-sm-6 col-12">
+              <input type="input" name="address" placeholder="Withdraw Address" class="" style="height: 38px;">
+            </div>
+            <div class="col-lg-3 col-sm-3 col-12">
+              <input type="input" name="amount" placeholder="Withdraw Amount" class="" style="height: 38px;">
+            </div>
+            <div class="col-lg-3 col-sm-3 col-12">
+              <input type="submit" value="Withdraw" class="btn btn-default">
+            </div>
+          </div>
+		  </form>
+      </div>
+      {{/user}}
+    {{/genAddress}}
+  </div>
+
+{{>foot}}
