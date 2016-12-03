@@ -5,6 +5,6 @@ Anonymous
 
 IRC #bitcoinslots
 
-![Alt text](https://imgur.com/a/UDyJd)
+![ScreenShot](https://{imgur.com/a/UDyJd})
 
 TODO List
