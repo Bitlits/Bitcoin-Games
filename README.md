@@ -5,6 +5,6 @@ Anonymous
 
 IRC #bitcoinslots
 
-![altcoin keno](https://cloud.githubusercontent.com/assets/8336385/20858316/482e1c7e-b8f8-11e6-9e7a-faee601bca57.jpg)
+![altcoinkeno](https://cloud.githubusercontent.com/assets/8336385/20858407/4e8b7886-b8f9-11e6-9c2c-92e48622759e.jpg)
 
 TODO List
