@@ -5,4 +5,6 @@ Anonymous
 
 IRC #bitcoinslots
 
+![Alt text](https://imgur.com/a/UDyJd "Altcoin Keno")
+
 TODO List
