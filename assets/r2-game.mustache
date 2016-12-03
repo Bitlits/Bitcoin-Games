@@ -1,0 +1,91 @@
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<h3>Roll Two</h3>
+		<p>
+			Select 2 Numbers and enter your address.  For each number you match, your bet is multiplied by <strong>2.5</strong>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p>
+			<label class="rollLabel red"><input type="radio" value="0" name="r2g0">0</label>
+			<label class="rollLabel red"><input type="radio" value="1" name="r2g0">1</label>
+			<label class="rollLabel red"><input type="radio" value="2" name="r2g0">2</label>
+			<label class="rollLabel red"><input type="radio" value="3" name="r2g0">3</label>
+			<label class="rollLabel red"><input type="radio" value="4" name="r2g0">4</label>
+			<label class="rollLabel red"><input type="radio" value="5" name="r2g0">5</label>
+			<label class="rollLabel red"><input type="radio" value="6" name="r2g0">6</label>
+			<label class="rollLabel red"><input type="radio" value="7" name="r2g0">7</label>
+			<label class="rollLabel red"><input type="radio" value="8" name="r2g0">8</label>
+			<label class="rollLabel red"><input type="radio" value="9" name="r2g0">9</label>
+			<label class="rollLabel red"><input type="radio" value="10" name="r2g0">10</label>
+			<label class="rollLabel red"><input type="radio" value="11" name="r2g0">11</label>
+			<label class="rollLabel red"><input type="radio" value="12" name="r2g0">12</label>
+			<label class="rollLabel red"><input type="radio" value="13" name="r2g0">13</label>
+			<label class="rollLabel red"><input type="radio" value="14" name="r2g0">14</label>
+			<label class="rollLabel red"><input type="radio" value="15" name="r2g0">15</label>
+		</p>
+	</div>
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<p>
+			<label class="rollLabel blue"><input type="radio" value="0" name="r2g1">0</label>
+			<label class="rollLabel blue"><input type="radio" value="1" name="r2g1">1</label>
+			<label class="rollLabel blue"><input type="radio" value="2" name="r2g1">2</label>
+			<label class="rollLabel blue"><input type="radio" value="3" name="r2g1">3</label>
+			<label class="rollLabel blue"><input type="radio" value="4" name="r2g1">4</label>
+			<label class="rollLabel blue"><input type="radio" value="5" name="r2g1">5</label>
+			<label class="rollLabel blue"><input type="radio" value="6" name="r2g1">6</label>
+			<label class="rollLabel blue"><input type="radio" value="7" name="r2g1">7</label>
+			<label class="rollLabel blue"><input type="radio" value="8" name="r2g1">8</label>
+			<label class="rollLabel blue"><input type="radio" value="9" name="r2g1">9</label>
+			<label class="rollLabel blue"><input type="radio" value="10" name="r2g1">10</label>
+			<label class="rollLabel blue"><input type="radio" value="11" name="r2g1">11</label>
+			<label class="rollLabel blue"><input type="radio" value="12" name="r2g1">12</label>
+			<label class="rollLabel blue"><input type="radio" value="13" name="r2g1">13</label>
+			<label class="rollLabel blue"><input type="radio" value="14" name="r2g1">14</label>
+			<label class="rollLabel blue"><input type="radio" value="15" name="r2g1">15</label>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+		<input type="text" class="form-control" id="address" placeholder="Your Address">
+		<input type="hidden" id="type" value="1">
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<p><a id="play" href="#" class="btn btn-success btn-block">Play!</a></p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<div class="modal fade" id="example" tabindex="-1" role="dialog" aria-labelledby="Bet Multiplier" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title">Examples</h4>
+					</div>
+					<div class="modal-body">
+						<h4><strong>Examples</strong></h4>
+						<p>
+							You select: <strong>1,2</strong> and your numbers are: <strong>1,1</strong> and bet: <strong>1 {{altc}}</strong><br>
+							You win <strong>2.5 {{altc}}</strong> since you matched the last number
+						</p>
+						<p>
+							You select: <strong>1,2</strong> and your numbers are: <strong>1,2</strong> and bet: <strong>1 {{altc}}</strong><br>
+							You win <strong>5 {{altc}}</strong> since you matched both numbers
+						</p>
+						<h4><strong>Provably Fair</strong></h4>
+						<p>
+							Each game has a single transaction ID (txid for short).  To get the winning numbers, we convert the txid from base 16 to base 10 and then pick the first two numbers from the txid as the winning numbers.
+						</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

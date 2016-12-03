@@ -1,0 +1,118 @@
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<h3>Pick Three</h3>
+		<p>
+			Select 3 Numbers and enter your address.  For each number you match, your bet is multiplied by <strong>2.5</strong>
+		</p>
+		<p><a href="#" id="autopick">Auto Pick</a></p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		<p>
+			<select class="form-control" id="p3g0">
+				<option value="0">0</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+			</select>
+		</p>
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		<p>
+			<select class="form-control" id="p3g1">
+				<option value="0">0</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+			</select>
+		</p>
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		<p>
+			<select class="form-control" id="p3g2">
+				<option value="0">0</option>
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+				<option value="8">8</option>
+				<option value="9">9</option>
+				<option value="10">10</option>
+				<option value="11">11</option>
+				<option value="12">12</option>
+				<option value="13">13</option>
+				<option value="14">14</option>
+				<option value="15">15</option>
+			</select>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+		<input type="text" class="form-control" id="address" placeholder="Your Address">
+		<input type="hidden" id="type" value="1">
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<p><a id="play" href="#" class="btn btn-success btn-block">Play!</a></p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<div class="modal fade" id="example" tabindex="-1" role="dialog" aria-labelledby="Bet Multiplier" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title">Examples</h4>
+					</div>
+					<div class="modal-body">
+						<h4><strong>Examples</strong></h4>
+						<p>
+							You select: <strong>1,2,3</strong> and your numbers are: <strong>5,4,3</strong> and bet: <strong>1 {{altc}}</strong><br>
+							You win <strong>2.5 {{altc}}</strong> since you matched the last number
+						</p>
+						<p>
+							You select: <strong>1,2,3</strong> and your numbers are: <strong>3,2,1</strong> and bet: <strong>1 {{altc}}</strong><br>
+							You win <strong>2.5 {{altc}}</strong> since you matched the middle number
+						</p>
+						<h4><strong>Provably Fair</strong></h4>
+						<p>
+							Each game has a single transaction ID (txid for short).  To get the winning numbers, we convert the txid from base 16 to base 10 and then pick the first three numbers from the txid as the winning numbers.
+						</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

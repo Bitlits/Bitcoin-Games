@@ -1,0 +1,13 @@
+<table class="table table-striped">
+	<tr><th>Nickname</th><th>Game</th><th>Address</th><th>Bet</th><th>Multiplier</th><th>Win Amount <a href="#" data-toggle="modal" data-target="#example">fair?</a></th></tr>
+	{{#transactions}}
+		<tr>
+			<td>{{#nick}}{{nick}}{{/nick}}{{^nick}}Anonymous{{/nick}}</td>
+			<td>{{#choice}}Pick Three{{/choice}}{{^choice}}High/Low{{/choice}}</td>
+			<td>{{address}}</td>
+			<td><img src="/assets/img/{{coin}}.png" class="transaction-bet-img"> {{amount}}</td>
+			<td>{{rate}} &times;</td>
+			<td>{{payment}}</td>
+		</tr>
+	{{/transactions}}
+</table>

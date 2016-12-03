@@ -1,0 +1,74 @@
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<h3>High / Low</h3>
+		<p>
+			Enter your address and then play a round by pressing play.
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+		<p>
+			<input type="text" class="form-control" id="address" placeholder="Your Address">
+			<input type="hidden" id="type" value="1">
+		</p>
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		<a id="play" href="#" class="btn btn-success btn-block">Play!</a>
+	</div>
+</div>
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+		<div class="modal fade" id="example" tabindex="-1" role="dialog" aria-labelledby="Bet Multiplier" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						<h4 class="modal-title">Example and Bet Multipliers</h4>
+					</div>
+					<div class="modal-body">
+						<h4><strong>Example</strong></h4>
+						<p>
+							You bet: <strong>1 {{altc}}</strong> and your Transaction ID is <strong>f34ffeb8...</strong>.<br>
+							You win <strong>5 {{altc}}</strong>
+						</p>
+						<h4><strong>Bet Multipliers</strong></h4>
+						<div class="row">
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+								<ul>
+									<li><strong>0</strong> = 0.1 &times Bet</li>
+									<li><strong>1</strong> = 0.2 &times Bet</li>
+									<li><strong>2</strong> = 0.3 &times Bet</li>
+									<li><strong>3</strong> = 0.4 &times Bet</li>
+									<li><strong>4</strong> = 0.5 &times Bet</li>
+									<li><strong>5</strong> = 0.6 &times Bet</li>
+									<li><strong>6</strong> = 0.7 &times Bet</li>
+									<li><strong>7</strong> = 0.8 &times Bet</li>
+								</ul>
+							</div>
+							<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+								<ul>
+									<li><strong>8</strong> = 0.9 &times Bet</li>
+									<li><strong>9</strong> = 1.0 &times Bet</li>
+									<li><strong>a</strong> = 1.5 &times Bet</li>
+									<li><strong>b</strong> = 2.0 &times Bet</li>
+									<li><strong>c</strong> = 2.5 &times Bet</li>
+									<li><strong>d</strong> = 3.0 &times Bet</li>
+									<li><strong>e</strong> = 4.0 &times Bet</li>
+									<li><strong>f</strong> = 5.0 &times Bet</li>
+								</ul>
+							</div>
+						</div>
+						<h4><strong>Provably Fair</strong></h4>
+						<p>
+							Each game has a single transaction ID (txid for short).  To get the winning numbers, we convert the txid from base 16 to base 10 and then pick the first number from the txid as the winning number.
+						</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
