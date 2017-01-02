@@ -1,9 +1,8 @@
 # Bitcoin-keno
 Bitcoin keno using the blockchain
 
-Anonymous 
+![iphonekeno](https://cloud.githubusercontent.com/assets/8336385/21592965/289ac59c-d0c7-11e6-9ec3-8459e37b9678.jpg)
 
-IRC #bitcoinslots
 ## Version 
 
 v1.0.0.0
@@ -18,10 +17,9 @@ v1.0.0.0
 
 Add images
 
-![iphonekeno](https://cloud.githubusercontent.com/assets/8336385/21592965/289ac59c-d0c7-11e6-9ec3-8459e37b9678.jpg)
 
 
-![altcoinkeno](https://cloud.githubusercontent.com/assets/8336385/20858407/4e8b7886-b8f9-11e6-9c2c-92e48622759e.jpg)
+
 
 ## License 
 
