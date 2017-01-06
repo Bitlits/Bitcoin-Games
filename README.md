@@ -15,8 +15,29 @@ v1.0.0.0
 
 ## TODO List
 
-Add images
+Page
+->Enter Address
+->Roll
+->Send depositAddress/gameType
+->Store
+->Send back generatedAddress based on ID.
+->Send Back Addy
+->Check for txid/payment
 
+Cron
+->Check all open games that are less than 30 minutes old
+->Check if each recieved funds
+->Store amount/txid
+->Calculate rate/winAmount based off gameType/txid
+->Set to pending if winAmount > 0 else finished
+->Store
+
+Cron
+->Check all pending games
+->Get winAmount/depositAddress
+->Send funds
+->Set game finished
+->Store
 
 
 
