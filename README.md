@@ -8,7 +8,7 @@ Bitcoin keno using the blockchain
 v1.0.0.0
 
 ## Usage 
-```$ git clone https://github.com/Jfaler/Palletizer.git
+```$ git clone https://github.com/Jfaler/Palletizer.git...
 ```
 
 
