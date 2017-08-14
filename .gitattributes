@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-PHP/* linguist-vendored
+assets/css/* linguist-vendored
