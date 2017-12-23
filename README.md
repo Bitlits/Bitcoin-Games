@@ -33,6 +33,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * Linux / Mac OSX
 * Git 1.7.10+
 * MySQL
+* Mustache
 
 ** More details are in the [doc](doc).
 
