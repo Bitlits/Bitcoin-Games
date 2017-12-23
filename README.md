@@ -55,3 +55,11 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Keno?
 * Clone the bitcoin-keno repo, make some changes according to our development guidelines and issue a pull-request with your changes.
 * Anything you want to tell us please send it to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 * If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
+
+## Donate
+Every satoshi of your kind donation goes into the ongoing work of making this project more awesome.
+
+* BTC: 1FThmBBG2u8vx4i3wJ9eieNn8TtcaRnCfm
+* LTC: LR6PhnAtBDgrpbgRRFYR7RrYPtwVKFL2it
+* ETH: 0xf2340de658175e1644c778cde425088c1d5bef42
+* BCH: 18vvtPnorBzcwWMASCpzit2fEy4sdyAj3N
