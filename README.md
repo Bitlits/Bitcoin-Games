@@ -1,9 +1,10 @@
- [![GitHub issues](https://img.shields.io/github/issues/Jfaler/Bitcoin-keno.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
+[![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](http://chat.bitlits.com/)
+[![GitHub issues](https://img.shields.io/github/issues/Jfaler/Bitcoin-keno.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/ko-KR/project/README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/zh-CN/project/README.md) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/pt-BR/project/README.md) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/zh-TW/project/README.md) | [Spanish](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/es/project/README.md) | [Turkish](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/tr-TR/project/README.md) | [German](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/de-DE/project/README.md)
 
 # Bitcoin-Keno
-Official repository for Bitcoin Keno a crypto-currency casino implementation with the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
+Official repository for Bitcoin Keno a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
 
 ## Version 
 
