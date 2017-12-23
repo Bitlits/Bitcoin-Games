@@ -43,14 +43,14 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ## Installation
 `
-$ git clone https://github.com/Jfaler/Bitcoin-Slot-Machine
+$ git clone https://github.com/Jfaler/Bitcoin-keno
 `
 
 ### Getting Involved
 
 Want to report a bug, request a feature, contribute or translate Bitcoin-Keno?
 
-* Browse our [issues](https://github.com/Jfaler/bitcoin-slot-machine/issues), comment on proposals, report bugs.
-* Clone the bitcoin-slot-machine repo, make some changes according to our development guidelines and issue a pull-request with your changes.
+* Browse our [issues](https://github.com/Jfaler/bitcoin-keno/issues), comment on proposals, report bugs.
+* Clone the bitcoin-keno repo, make some changes according to our development guidelines and issue a pull-request with your changes.
 * Anything you want to tell us please send it to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 * If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
