@@ -34,6 +34,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * Git 1.7.10+
 * MySQL
 * Mustache
+* Phpliteadmin
 
 ** More details are in the [doc](doc).
 
