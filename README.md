@@ -3,7 +3,7 @@
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/ko-KR/project/README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/zh-CN/project/README.md) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/pt-BR/project/README.md) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/zh-TW/project/README.md) | [Spanish](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/es/project/README.md) | [Turkish](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/tr-TR/project/README.md) | [German](https://github.com/Jfaler/bitcoin-keno/tree/master/docs-translations/de-DE/project/README.md)
 
-# Bitcoin-Keno
+# Bitcoin-Casino
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
 
 ## Version 
