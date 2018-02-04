@@ -1,7 +1,7 @@
 [![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](http://chat.bitlits.com/)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 
-:memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/zh-CN/project/README.md) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/pt-BR/project/README.md) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/zh-TW/project/README.md) | [Spanish](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/es/project/README.md) | [Turkish](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/tr-TR/project/README.md) | [German](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/de-DE/project/README.md)
+:memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
 
 # Bitcoin-Casino
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
@@ -50,23 +50,23 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 `
 $ git clone https://github.com/Jfaler/Bitcoin-Casino
 `
-
+* Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 * Edit /base/init.php
 * Install Litecoin & start litecoind https://github.com/Jfaler/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
 * Edit /vendor/sql/phpliteadmin.conf.php
-* Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php?
+* Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
 
 ### Getting Involved
 
 Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
-* Browse our [issues](https://github.com/Jfaler/bitcoin-Casino/issues), comment on proposals, report bugs.
-* Clone the bitcoin-Casino repo, make some changes according to our development guidelines and issue a pull-request with your changes.
+* Browse our [issues](https://github.com/Jfaler/Bitcoin-Casino/issues), comment on proposals, report bugs.
+* Clone the Bitcoin-Casino repo, make some changes according to our development guidelines and issue a pull-request with your changes.
 * Anything you want to tell us please send it to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 * If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 
 ## Donate
-Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to Sponsor this project? Send a donation & logo to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
+Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 
 * BTC: 1FThmBBG2u8vx4i3wJ9eieNn8TtcaRnCfm
 * LTC: LR6PhnAtBDgrpbgRRFYR7RrYPtwVKFL2it
