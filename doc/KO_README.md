@@ -4,31 +4,31 @@
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/zh-CN/project/README.md) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/pt-BR/project/README.md) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/zh-TW/project/README.md) | [Spanish](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/es/project/README.md) | [Turkish](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/tr-TR/project/README.md) | [German](https://github.com/Jfaler/bitcoin-casino/tree/master/docs-translations/de-DE/project/README.md)
 
 # Bitcoin-Casino
-Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
+PHP 프레임 워크 및 기타 최첨단 기술을 사용하여 암호화 통화 카지노 구현을위한 공식 리포지토리입니다. 사용자 계정은 익명으로 고유 한 해시로 만들어집니다. 주간 및 월간 잭팟은 슬롯 롤에서 가져옵니다.
 
-## Version
+## 버전
 
 v1.0.0.0
 
-### Mission
+### 미션
 
-Our mission is to build the worlds best crypto-currency casino with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency casino technology forward by providing support and add new features. We are helping people to build their own crypto gaming site around the world.
+우리의 임무는 사용자가 신뢰할 수 있고 즐길 수있는 고성능 게임 엔진으로 세계 최고의 암호화 통화 카지노를 만드는 것입니다. 또한 우리는 지원을 제공하고 새로운 기능을 추가함으로써 암호화 통화 카지노 기술을 발전시키고 자합니다. 우리는 전세계 사람들이 자신의 암호 게임 사이트를 구축 할 수 있도록 돕고 있습니다.
 
-Help is greatly appreciated, feel free to submit pull-requests or open issues.
+도움을 주시면 대단히 감사하겠습니다. 풀 요청이나 미해결 문제를 언제든지 제출해주십시오.
 
-### Features
+### 특징
 
-* 🎰 Designed as a high performance crypto-currency game.
-* #️ Built-in high performance RNG-engine.
-* ⚖️ Provably Fair - Each game has a single transaction ID (TXID for short). To get the winning numbers, we convert the TXID from base 16 to base 10 and then pick the first two numbers from the TXID as the winning numbers.
-* 💡 Usability and scalability.
-* ⚛️ Supports multiple digital currencies (eg. Bitcoin, Litecoin, Dogecoin etc.).
-* 📖 Powerful admin dashboard and management tools.
-* 🔧 Highly configurable and extendable.
-* 🔐 Industry standard security out of the box.
-* 💬 Active community behind.
+* 🎰 고성능 암호화 통화 게임으로 설계되었습니다.
+* # 내장형 고성능 RNG 엔진.
+* ⚖️ Provably Fair - 각 게임에는 단일 거래 ID (약식 TXID)가 있습니다. 우승 한 숫자를 얻으려면 TXID를 기수 16에서 기수 10으로 변환 한 다음 TXID에서 처음 두 숫자를 당첨 번호로 선택하십시오.
+* 💡 유용성 및 확장 성.
+* ⚛️ 여러 디지털 통화 (예 : Bitcoin, Litecoin, Dogecoin 등)를 지원합니다.
+* 📖 강력한 관리 대시 보드 및 관리 도구.
+* 🔧 고도의 구성 및 확장이 가능합니다.
+* 🔐 업계 표준 보안 기능.
+* 💬 활발한 커뮤니티.
 
-### Requirements
+### 요구 사항
 
 * Linux
 * Git 1.7.10+
@@ -39,14 +39,13 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ** More details are in the [doc](doc).
 
-### Getting started
+### 시작하기
 
 * [Setup on Mac OS X](doc/setup-local-osx.md)
 * [Setup on Ubuntu](doc/setup-local-ubuntu.md)
 * [Deploy production server](doc/deploy-production-server.md)
 
-## Installation
-
+## 설치
 `
 $ git clone https://github.com/Jfaler/Bitcoin-Casino
 `
@@ -65,7 +64,7 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 * Anything you want to tell us please send it to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 * If you need technical support or customization service, contact us: 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 
-## Donate
+## 기부
 Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to Sponsor this project? Send a donation & logo to 📥 [jfaler216@student.msjc.edu](mailto:jfaler216@student.msjc.edu)
 
 * BTC: 1FThmBBG2u8vx4i3wJ9eieNn8TtcaRnCfm
