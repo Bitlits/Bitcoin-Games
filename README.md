@@ -1,18 +1,42 @@
+<h1 align="center"> Bitlits </h1> <br>
+<p align="center">
+  <a href="https://doge.litecoinslotmachine.com">
+  </a>
+</p>
+
+<p align="center">
+  Bitlits in your pocket.
+</p>
+
+<p align="center">
+  <a href="https://itunes.apple.com/us/app/">
+    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=io.gonative.android.xrwyjq">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  </a>
+</p>
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#getting-involved)
+- [Mission](#mission)
+- [Installation](#installation)
+- [Sponsors](#donate)
+
+## Introduction
 [![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](http://chat.bitlits.com/)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
-
-# Bitcoin-Casino
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
-
-## Version
-
-v1.0.0.0
 
 ### Mission
 
-Our mission is to build the worlds best crypto-currency casino with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency casino technology forward by providing support and add new features. We are helping people to build their own crypto gaming site around the world.
+Our mission is to build the worlds best crypto-currency game with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency gaming technology forward by providing support and add new features. We are helping people to build their own crypto gaming site around the world.
 
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
@@ -27,6 +51,12 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * 🔧 Highly configurable and extendable.
 * 🔐 Industry standard security out of the box.
 * 💬 Active community behind.
+
+## Release History
+
+* 1.0
+    * CHANGE: Update docs (module code remains unchanged)
+
 
 ### Requirements
 
