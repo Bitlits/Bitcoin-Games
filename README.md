@@ -28,7 +28,7 @@
 - [Sponsors](#donate)
 
 ## Introduction
-[![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](http://chat.bitlits.com/)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/snagabit/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
