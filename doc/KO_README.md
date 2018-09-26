@@ -1,4 +1,37 @@
-[![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](http://chat.bitlits.com/)
+<p align="center">
+<img src="https://i.postimg.cc/HLmRx2My/logo.png" width="140" align="center">
+  </p>
+<h1 align="center"> Bitlits </h1> <br>
+<p align="center">
+  <a href="https://doge.litecoinslotmachine.com">
+  </a>
+</p>
+
+<p align="center">
+  Bitlits in your pocket.
+</p>
+
+<p align="center">
+  <a href="https://itunes.apple.com/us/app/">
+    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=io.gonative.android.xrwyjq">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+  </a>
+</p>
+
+## 목차
+
+- [목차](#목차)
+- [풍모](#풍모)
+- [피드백](#피드백)
+- [사명](#사명)
+- [설치](#설치)
+- [스폰서](#기부)
+
+## 소개
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/altcoincasino/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
