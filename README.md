@@ -33,6 +33,8 @@
 ## Introduction
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/altcoincasino/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
+![](https://img.shields.io/github/stars/jfaler/bitcoin-casino.svg)
+![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=my-website)
 
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
