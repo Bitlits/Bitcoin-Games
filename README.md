@@ -71,6 +71,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 * Mustache
 * PhpLiteAdmin v1.9.7.1
 * Apache2
+* RedBean
 
 ** More details are in the [doc](doc).
 
@@ -97,11 +98,11 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
 * Browse our [issues](https://github.com/Jfaler/Bitcoin-Casino/issues), comment on proposals, report bugs.
 * Clone the Bitcoin-Casino repo, make some changes according to our development guidelines and issue a pull-request with your changes.
-* Anything you want to tell us please send it to 📥 [support@bitlits.com](mailto:support@bitlits.com)
+* Anything you want to tell us please send it to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
 * If you need technical support or customization service, contact us: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
 
 ## Donate
-Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
+Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
 
 * BTC: 1FThmBBG2u8vx4i3wJ9eieNn8TtcaRnCfm
 * LTC: LR6PhnAtBDgrpbgRRFYR7RrYPtwVKFL2it
