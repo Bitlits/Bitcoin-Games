@@ -126,8 +126,6 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 - **Option 2**
     - If you need technical support or customization service, contact us: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
 
----
-
 
 ## Donate
 Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
