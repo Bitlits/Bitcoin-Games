@@ -83,23 +83,51 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ## Installation
 
-`
-$ git clone https://github.com/Jfaler/Bitcoin-Casino
-`
+* <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 * Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
-* Edit /base/init.php
-* Install Litecoin & start litecoind https://github.com/Jfaler/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
-* Edit /vendor/sql/phpliteadmin.conf.php
+* Edit the configuration file `sudo nano /base/init.php`
+* Install Litecoin & start the Litecoin Daemon `sudo litecoind` https://github.com/Jfaler/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
+* Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
 * Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
 
-### Getting Involved
+### Clone
+
+- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino`
+
+## Getting Involved
 
 Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
-* Browse our [issues](https://github.com/Jfaler/Bitcoin-Casino/issues), comment on proposals, report bugs.
-* Clone the Bitcoin-Casino repo, make some changes according to our development guidelines and issue a pull-request with your changes.
-* Anything you want to tell us please send it to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
-* If you need technical support or customization service, contact us: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
+
+### Step 1
+
+- **Option 1**
+    - 🍴 Fork & star this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine using `https://github.com/Jfaler/Bitcoin-Casino.git`
+
+- **Option 3**
+    - 🔔 Browse our [issues](https://github.com/Jfaler/Bitcoin-Casino/issues), comment on proposals, report bugs.
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/jfaler/Bitcoin-Casino/compare/" target="_blank">`https://github.com/jfaler/Bitcoin-Casino/compare/`</a>.
+
+### Step 4
+
+- **Option 1**
+    - Anything you want to tell us please send it to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
+    
+- **Option 2**
+    - If you need technical support or customization service, contact us: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
+
+---
+
 
 ## Donate
 Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
