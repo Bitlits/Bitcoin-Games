@@ -1,4 +1,9 @@
 <?php
+/*
+🦉 Justin Faler
+🧪 https://github.com/Jfaler
+🧠 Base 64: UHJvcGVydHkgb2YgQml0bGl0cy5jb20gLyBQbGVhc2UgY29udGFjdCBpbW1lZGlhdGVseSBpZiB0aGlzIHByb2R1Y3QgaXMgdW5saWNlbnNlZC4=
+*/
 
 $address = getVar("address");
 $amount = getVar("amount");
@@ -33,5 +38,5 @@ if(is_object($user)){
 }
 
 include(APP."/profile/index.php");
-
+// 🧬 Property of Bitlits.com ©2013-2019
 ?>
