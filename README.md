@@ -31,7 +31,7 @@
 - [Sponsors](#donate)
 
 ## Introduction
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/altcoincasino/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Bitcoin-Casino/blob/master/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
 ![](https://img.shields.io/github/stars/jfaler/bitcoin-casino.svg)
 [![](https://img.shields.io/twitter/follow/bitlits.svg?label=Follow&style=social)](https://twitter.com/bitlits)
