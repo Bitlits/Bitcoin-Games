@@ -92,7 +92,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ### Clone
 
-- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino`
+- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino.git`
 
 ## Getting Involved
 
