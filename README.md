@@ -41,7 +41,7 @@ Official repository for a crypto-currency casino implementation using the PHP fr
 
 ### Mission
 
-Our mission is to build the worlds best crypto-currency game with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency gaming technology forward by providing support and add new features. We are helping people to build their own crypto gaming site around the world.
+Our mission is to build the worlds best open source crypto-currency games with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency gaming technology forward by providing support and adding new features. We are helping people to build their own crypto gaming site around the world.
 
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
