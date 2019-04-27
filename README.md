@@ -36,7 +36,9 @@
 ![](https://img.shields.io/github/stars/jfaler/bitcoin-casino.svg)
 [![](https://img.shields.io/twitter/follow/bitlits.svg?label=Follow&style=social)](https://twitter.com/bitlits)
 
+## Translations
 :memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
+
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
 
 ### Mission
