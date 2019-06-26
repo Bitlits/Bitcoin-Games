@@ -31,9 +31,10 @@
 - [Sponsors](#donate)
 
 ## Introduction
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Bitcoin-Casino/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/Jfaler/bitcoin-casino.svg)](https://github.com/Jfaler/Bitcoin-Slot-Machine/issues)
-![](https://img.shields.io/github/stars/jfaler/bitcoin-casino.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/bitlits/Bitcoin-Casino/blob/master/LICENSE.txt)
+[![GitHub issues](https://img.shields.io/github/issues/bitlits/bitcoin-casino.svg)](https://github.com/bitlits/Bitcoin-Casino/issues)
+![](https://img.shields.io/github/stars/bitlits/bitcoin-casino.svg)
+[![Discourse](https://img.shields.io/badge/discourse-online-blue.svg)](https://community.bitlits.com)
 [![](https://img.shields.io/twitter/follow/bitlits.svg?label=Follow&style=social)](https://twitter.com/bitlits)
 
 Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
