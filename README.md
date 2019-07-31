@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://i.postimg.cc/HLmRx2My/logo.png" width="140" align="center">
   </p>
-<h1 align="center"> Bitlits </h1> <br>
 <p align="center">
   <a href="https://bitlits.com">
   </a>
@@ -23,30 +22,13 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#getting-involved)
-- [Mission](#mission)
 - [Installation](#installation)
 - [Sponsors](#donate)
 
-## Introduction
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/bitlits/Bitcoin-Casino/blob/master/LICENSE.txt)
-[![GitHub issues](https://img.shields.io/github/issues/bitlits/bitcoin-casino.svg)](https://github.com/bitlits/Bitcoin-Casino/issues)
-![](https://img.shields.io/github/stars/bitlits/bitcoin-casino.svg)
-[![Discourse](https://img.shields.io/badge/discourse-online-blue.svg)](https://community.bitlits.com)
-[![](https://img.shields.io/twitter/follow/bitlits.svg?label=Follow&style=social)](https://twitter.com/bitlits)
-
-Official repository for a crypto-currency casino implementation using the PHP framework and other cutting-edge technology. User accounts are anonymous and created with a unique hash. Weekly and Monthly jackpots are taken from slot rolls.
-
 ## Translations
-:memo: Available Translations: [Korean](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/KO_README.md) | [Simplified Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Brazilian Portuguese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Traditional Chinese](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Spanish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [Turkish](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/) | [German](https://github.com/Jfaler/bitcoin-casino/blob/master/doc/)
-
-### Mission
-
-Our mission is to build the worlds best open source crypto-currency games with a high performance gaming engine which can be trusted and enjoyed by users. Additionally, we want to move the crypto-currency gaming technology forward by providing support and adding new features. We are helping people to build their own crypto gaming site around the world.
-
-Help is greatly appreciated, feel free to submit pull-requests or open issues.
+:memo: Available Translations: 🇬🇷 [ελληνικά](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇫🇷 [Français](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇰🇷 [한국어](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/KO_README.md) | 🇨🇳 [普通話](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇹🇼 [台灣話](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇲🇽 [Español](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇹🇷 [Türkçe](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇩🇪 [Deutsch](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇮🇹 [Italiano](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇮🇳 [हिन्दी](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | [Arabic](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇵🇹 [Português](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇷🇺 [Русский язык](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇯🇵 [日本語](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/) | 🇻🇳 [tiếng việt](https://github.com/Jfaler/Bitcoin-Casino/blob/master/doc/)
 
 ### Features
 
@@ -64,7 +46,6 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 * 1.0
     * CHANGE: Update docs (module code remains unchanged)
-
 
 ### Requirements
 
@@ -95,7 +76,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ### Clone
 
-- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino.git`
+- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino`
 
 ## Getting Involved
 
@@ -127,7 +108,7 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
     - Anything you want to tell us please send it to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
     
 - **Option 2**
-    - If you need technical support or customization service, contact us: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
+    - If you need technical support or customization service, contact us: 📥 [support@bitlits.com](mailto:support@bitlits.com)
     
 ## Donate
-Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [contact@bitlits.com](mailto:contact@bitlits.com)
+Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
