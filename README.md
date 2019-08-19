@@ -34,6 +34,7 @@
 
 * 🎰 Designed as a high performance crypto-currency game.
 * 🧠 Built-in high performance RNG-engine.
+* 🙊 Anonymous login with no sign up required.
 * ⚖️ Provably Fair - Each game has a single transaction ID (TXID for short). To get the winning numbers, we convert the TXID from base 16 to base 10 and then pick the first two numbers from the TXID as the winning numbers.
 * 💡 Usability and scalability.
 * ⚛️ Supports multiple digital currencies (eg. Bitcoin, Litecoin, Dogecoin etc.).
