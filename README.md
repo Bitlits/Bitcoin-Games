@@ -50,11 +50,11 @@
 
 ## 🔧 Prerequisites 
 
-* Linux
+* Ubuntu 18.04
 * Git 1.7.10+
 * Sqlite
 * Mustache
-* PhpLiteAdmin v1.9.7.1
+* PhpLiteAdmin v1.9.8.2
 * Apache2
 * RedBean
 
@@ -75,9 +75,6 @@
 * Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
 * Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
 
-### Clone
-
-- Clone this repo to your local machine using `sudo git clone https://github.com/Jfaler/Bitcoin-Casino`
 
 ## Getting Involved
 
