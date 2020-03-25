@@ -98,7 +98,7 @@ Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/bitlits/Bitcoin-Casino/compare/" target="_blank">`https://github.com/jfaler/Bitcoin-Casino/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/bitlits/Bitcoin-Casino/compare/" target="_blank">`https://github.com/bitlits/Bitcoin-Casino/compare/`</a>.
 
 ### Step 4
 
