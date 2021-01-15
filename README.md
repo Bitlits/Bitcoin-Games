@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  Bitlits in your pocket.
-</p>
-
-<p align="center">
   <a href="https://itunes.apple.com/us/app/">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
@@ -32,7 +28,7 @@
 
 ### Features
 
-* 🎰 Designed as a high performance crypto-currency game.
+* 🎰 Designed as a high performance cryptocurrency game.
 * 🧠 Built-in high performance RNG-engine.
 * 🙊 Anonymous login with no sign up required.
 * ⚖️ Provably Fair - Each game has a single transaction ID (TXID for short). To get the winning numbers, we convert the TXID from base 16 to base 10 and then pick the first two numbers from the TXID as the winning numbers.
@@ -58,14 +54,6 @@
 * Apache2
 * RedBean
 
-** More details are in the [doc](doc).
-
-### Getting started
-
-* [Setup on Mac OS X](doc/setup-local-osx.md)
-* [Setup on Ubuntu](doc/setup-local-ubuntu.md)
-* [Deploy production server](doc/deploy-production-server.md)
-
 ## 🚀 Installation & Deployment
 
 * <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
@@ -74,39 +62,3 @@
 * Install Litecoin & start the Litecoin Daemon `sudo litecoind` https://github.com/bitlits/Bitcoin-Casino/wiki/Install-Litecoin-for-Bitcoin-Casino-&-Bitcoin-Slot-Machine
 * Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
 * Access PhpLiteAdmin Dashboard http://example.com/vendor/sql/phpliteadmin.php
-
-
-## Getting Involved
-
-Want to report a bug, request a feature, contribute or translate Bitcoin-Casino?
-
-
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork & star this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/bitlits/Bitcoin-Casino.git`
-
-- **Option 3**
-    - 🔔 Browse our [issues](https://github.com/bitlits/Bitcoin-Casino/issues), comment on proposals, report bugs.
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/bitlits/Bitcoin-Casino/compare/" target="_blank">`https://github.com/bitlits/Bitcoin-Casino/compare/`</a>.
-
-### Step 4
-
-- **Option 1**
-    - Anything you want to tell us please send it to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
-    
-- **Option 2**
-    - If you need technical support or customization service, contact us: 📥 [support@bitlits.com](mailto:support@bitlits.com)
-    
-## Donate
-Every satoshi of your kind donation goes into the ongoing work of making this project more awesome. Want to sponsor this project? Send a donation & logo to: 📥 [support@bitlits.com](mailto:support@bitlits.com)
